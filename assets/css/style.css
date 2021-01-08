@@ -201,7 +201,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/x.jpg") top center;
+  background: url("https://raw.githubusercontent.com/iSingh-11/iSingh-11.github.io/main/assets/img/x.JPG") top center;
   background-size: cover;
 }
 
